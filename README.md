@@ -1,6 +1,6 @@
 # Installation
 
-### npm i
+### `npm i`
 
 # Run Project
 
